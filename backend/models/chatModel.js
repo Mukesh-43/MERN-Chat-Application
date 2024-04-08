@@ -1,5 +1,6 @@
 const mongoose = require("mongoose");
 
+// Modal Schema for Chats
 const chatSchema = new mongoose.Schema(
   {
     chatName: {

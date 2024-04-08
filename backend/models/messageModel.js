@@ -1,5 +1,6 @@
 const mongoose = require("mongoose");
 
+// Modal Schema for Messages
 const messageSchema = new mongoose.Schema(
   {
     sender: {

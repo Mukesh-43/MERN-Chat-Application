@@ -1,3 +1,5 @@
+//Function to connect with MongoDB using Mongoose.js
+
 const mongoose = require("mongoose");
 
 main().catch((err) => console.log(err));
