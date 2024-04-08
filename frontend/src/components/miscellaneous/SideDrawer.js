@@ -127,11 +127,6 @@ const SideDrawer = () => {
         <Text className="font-sans text-2xl">MERN Chat App</Text>
         <div>
           <Menu>
-            <MenuButton className="p-1">
-              <BellIcon className="text-2xl m-1" />
-            </MenuButton>
-          </Menu>
-          <Menu>
             <MenuButton className="m-1">
               <Avatar
                 className="p-1"
